@@ -1,0 +1,7 @@
+logs/
+node_modules/
+package-lock.json
+.env
+docs/TODO_LIVREUR.md
+docs/TODO_BOSSEUR.md
+docs/TODO_CLIENT.md
